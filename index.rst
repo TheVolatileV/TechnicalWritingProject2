@@ -16,7 +16,7 @@ If you need help, or just want to talk with the JDA or other Discord Devs, you c
    :caption: Content
    :maxdepth: 2
    
-   pages/downloads
+   pages/setup
    pages/getting_started
    pages/examples
    pages/events
