@@ -1,13 +1,9 @@
 ===============
-Downloads
+Setup
 ===============
+To be able to develop programs in Java through Intellij, a few different programs are needed.
 
-You can get the latest promoted builds `here <https://github.com/DV8FromTheWorld/JDA/releases>`_.
-
-If you want the most up-to-date builds, you can get them `here <http://home.dv8tion.net:8080/job/JDA/>`_.
-**Note:** It is quite possible that these are broken or bugged. Use with caution.
-
-Javadoc
+Download and Install Intellij
 ===============
 
 Javadocs are available in both jar format and web format.
