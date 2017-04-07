@@ -13,7 +13,7 @@ Determining if your version of Windows is 32 or 64 bit
 #. Right-click on 'This PC'.
 #. Click on 'Properties
 
-    .. image:: ../images/setup/troubleshotting/computer-right-click.png
+    .. image:: ../images/setup/troubleshooting/computer-right-click.png
 
 #. You can see what bit you have by looking next to 'System type:' below 'Installed memory (RAM):'.
 
