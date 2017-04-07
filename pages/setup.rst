@@ -120,5 +120,6 @@ To actually develop Java, we require the Java Development Kit or JDK for short. 
 
     .. image:: ../images/setup/jdk/15.png
 
-#. That's it, you've completely setup the JDK! Now with both Intellij and the Java Developer Kit setup you are ready to proceed to `Setting up a Java Project in Intellij! <usage.html#creating-a-java-project>`_
+That's it, you've completely setup the JDK! Now with both Intellij and the Java Developer Kit setup you are ready to proceed to `Setting up a Java Project in Intellij! <usage.html#creating-a-java-project>`_
+
 ------------------
