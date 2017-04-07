@@ -1,6 +1,9 @@
 ===============
-Creating a Java Project
+General Usage
 ===============
+
+Creating a Java Project
+^^^^^^^^^^^^^^^^^^^^^^^
 
 #. Double click on the IntelliJ icon to launch it.
 
@@ -25,3 +28,11 @@ Creating a Java Project
 #. Click next and provide a name for your new project.
 
     .. image:: ../images/setup/intellij/finished.png
+    
+----------------------------
+    
+Your Category Here
+^^^^^^^^^^^^^^^^^^
+
+Your content here.
+--------
