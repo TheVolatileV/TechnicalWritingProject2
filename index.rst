@@ -13,9 +13,6 @@ This manual aims to provide a simple step by step guide from the installation of
    pages/setup
    pages/projectSetup
    pages/getting_started
-   pages/examples
-   pages/events
-   pages/audio
 
 .. |br| raw:: html
 
