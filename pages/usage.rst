@@ -13,7 +13,7 @@ Creating a Java Project
 
     .. image:: ../images/setup/intellij/Untitled.png
 
-#. If you haven't already downloaded the JDK, jump to `Setup - Downloading the JDK <../setup.rst#download-and-install-intellij>`_. Otherwise, in the New Project window, click the `new` button to specify the location of the JDK which you downloaded earlier. If already specified, jump to step 5. 
+#. If you haven't already downloaded the JDK, jump to `Setup - Downloading the JDK <../setup.html#download-and-install-jdk>`_. Otherwise, in the New Project window, click the `new` button to specify the location of the JDK which you downloaded earlier. If already specified, jump to step 5. 
 
     .. image:: ../images/setup/intellij/jdk5.png
 
