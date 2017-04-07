@@ -2,7 +2,7 @@
 Creating a Java Project
 ===============
 
-#. Double click on the ItelliJ icon to launch it.
+#. Double click on the IntelliJ icon to launch it.
 
 
 
