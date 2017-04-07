@@ -11,6 +11,7 @@ This manual aims to provide a simple step by step guide from the installation of
    :maxdepth: 2
    
    pages/setup
+   pages/projectSetup
    pages/getting_started
    pages/examples
    pages/events
