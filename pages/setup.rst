@@ -56,7 +56,6 @@ Download and Install Intellij
 
 You Are Done!
 
-===============
 Creating a Java Project
 ===============
 
