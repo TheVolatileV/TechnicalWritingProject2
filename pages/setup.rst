@@ -6,7 +6,6 @@ To be able to develop programs in Java through Intellij, a few different program
 Download and Install Intellij
 ^^^^^^^^^^^^
 #. Navigate to https://www.jetbrains.com/idea/download/ or google “install intellij” without quotes.
-===============
 #. Select your operating system.
 #. Click the black download button below **Community** as we will not be using the paid **Ultimate** version
     
