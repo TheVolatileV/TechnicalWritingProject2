@@ -62,60 +62,8 @@ You Are Done!
 Gradle Setup
 ^^^^^^^^^^^^
 
-#. If you have *Eclipse IDE for Java Developers* installed, skip to **2.**, otherwise you need to install the *Buildship Gradle Integration plugin* first:
-    -  Open up Eclipse and go to the Marketplace (located under the *Help* tab)
-   
-    -  Search for *'gradle'* and install **Buildship Gradle Integration** (`Plugin-Page <http://marketplace.eclipse.org/content/buildship-gradle-integration>`_)
-   
-    -  After the plugin is installed, relaunch Eclipse
+#. start here
 
-#. Right click within *Package/Project Explorer* and select **New > Other...**
-   
-#. In the *Gradle* folder, select **Gradle Project**
-   
-#. Type a name for your Project and click on *Finish*. Your setup should look like this at this point:
-   
-#. Delete the classes within ``src/main/java`` and ``src/test/java``
-   
-#. Open up and edit the file ``build.gradle``
-   
-#. Replace its content with the following code:
-    
-    .. code-block:: groovy
-        
-        apply plugin: 'java'
-        
-        dependencies {
-            compile 'net.dv8tion:JDA:X.X.X\_XXX'
-        }
-        
-        repositories {
-            jcenter()
-        }
-        
-        task fatJar(type: Jar) {
-            manifest {
-                attributes 'Main-Class': 'your.main.class.goes.Here'
-            }
-            
-            from { 
-                configurations.compile.collect {
-                    dependency ->
-                    if (dependency.directory) {
-                        return dependency
-                    } else {
-                        return zipTree(dependency)
-                    }
-                }
-            }
-            with jar
-        }
-
-
-    - Adjust the version of JDA you want to use (see dependencies-section of file) and fill in your Main-Class as soon as you have one (the one containing your `public static void main(String[] args)` method)
-
-#. Save the file and do the following: *Right click your project > Gradle > Refresh All*
-
-#. Once all of the dependencies have been downloaded, create your desired packages/classes in ``src/main/java`` and start coding!
+#. this is step 2
 
 ------------------
