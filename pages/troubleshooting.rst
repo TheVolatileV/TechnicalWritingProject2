@@ -1,6 +1,9 @@
 ===============
-Determining if your version of Windows is 32 or 64 bit
+Troubleshooting
 ===============
+
+Determining if your version of Windows is 32 or 64 bit
+^^^^^^^^^^^^^^^^^
 
 #. Press the windows button and type 'computer' without quotes.
 
