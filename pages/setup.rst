@@ -56,6 +56,26 @@ Download and Install Intellij
 
 You Are Done!
 
+#. Double click on the ItelliJ icon to launch it.
+
+#. Click 'Create New Project'
+
+#. Click ‘Download JDK’
+
+#. Read through the Oracle Binary Code License Agreement for Java SE and make a decision.
+
+#. Click on the download for your corresponding operating system to download the JDK intaller.
+
+#. Run the JDK installer and follow its installation insturctions.
+
+#. Return to the intelliJ window and click the New box.
+
+#. Locate your JDK installation, it should be location in C:/ProgramFiles/Java/JDK1.8
+
+#. Check the ‘Create project from template’ box and select ‘Command Line App’
+
+#. Click next and provide a name for your new project.
+
 ------------------
 
 Gradle Setup
