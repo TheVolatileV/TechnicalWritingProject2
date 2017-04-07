@@ -118,7 +118,7 @@ To actually develop Java, we require the Java Development Kit or JDK for short. 
 
 #. If you check, you should now see the `JAVA_HOME` entry in the `System Variables`. Click the `Okay` button to save the changes to your environment variables and close the window.
 
-    ..image:: ../images/setup/jdk/15.png
+    .. image:: ../images/setup/jdk/15.png
 
 #. That's it, you've completely setup the JDK! Now with both Intellij and the Java Developer Kit setup you are ready to proceed to `Setting up a Java Project in Intellij! <usage.html#creating-a-java-project>`_
 ------------------
