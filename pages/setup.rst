@@ -60,7 +60,7 @@ You Are Done!
 ------------------
 
 Gradle Setup
-""""""""""""""""""
+^^^^^^^^^^^^
 
 #. If you have *Eclipse IDE for Java Developers* installed, skip to **2.**, otherwise you need to install the *Buildship Gradle Integration plugin* first:
     -  Open up Eclipse and go to the Marketplace (located under the *Help* tab)
