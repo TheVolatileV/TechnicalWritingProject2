@@ -84,7 +84,7 @@ Creating a Java Project
 
 #. Return to the intelliJ window and click the New box.
 
-    .. image:: ../images/setup/intellij/JDK5.png
+    .. image:: ../images/setup/intellij/jdk5.png
 
 #. Locate your JDK installation, it should be location in C:/ProgramFiles/Java/JDK1.8
 
