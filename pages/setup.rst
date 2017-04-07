@@ -6,26 +6,28 @@ To be able to develop programs in Java through Intellij, a few different program
 Download and Install Intellij
 ^^^^^^^^^^^^
 #. Navigate to https://www.jetbrains.com/idea/download/ or google “install intellij” without quotes.
+    
 #. Select your operating system.
+
+    .. image:: ../images/setup/intellij/choose-os.png
+
 #. Click the black download button below **Community** as we will not be using the paid **Ultimate** version
     
-    .. image:: ../images/setup/eclipse/normal_1.png
+    .. image:: ../images/setup/intellij/choose-community.png
     
 #. After clicking the download button, a popup will appear asking where you would like to download the installer to on your computer.
 
 #. Select the desktop and click Save.
 
-    .. image:: ../images/setup/eclipse/normal_2.png
+    .. image:: ../images/setup/intellij/download-location.png
 
 #. Once downloaded, double click the installer, which looks like this.
 
-    `If you don't want Javadoc and source annotations, skip to 11.`
-   
-    .. image:: ../images/setup/eclipse/normal_3.png
+    .. image:: ../images/setup/intellij/installer-icon.png
 
 #. After double clicking the icon you may be prompted to allow the Intellij Installer to make changes to your device. Clicking Yes is necessary for the installer to install the appropriate files to your computer’s hard drive.
 
-    .. image:: ../images/setup/eclipse/normal_4.png
+    .. image:: ../images/setup/intellij/user-account-control.png
 
 #. Click the next button to begin.
 
