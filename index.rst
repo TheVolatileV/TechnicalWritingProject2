@@ -12,7 +12,9 @@ This manual aims to provide a simple step by step guide from the installation of
    
    pages/setup
    pages/projectSetup
+   pages/usage
    pages/getting_started
+   pages/troubleshooting
 
 .. |br| raw:: html
 
