@@ -59,11 +59,34 @@ You Are Done!
 
 ------------------
 
-Gradle Setup
+Download and Install JDK
 ^^^^^^^^^^^^
 
-#. start here
+To actually develop Java, we require the Java Development Kit or JDK for short. This is a package that contains the tools needed to compile, debug, and test code written for Java. We will need to download the kit from Oracle.
 
-#. this is step 2
+#. Navigate to http://www.oracle.com/technetwork/java/javase/downloads/index.html to find the latest Java related downloads.
+    
+#. Click the `Java Platform (JDK)` link.
 
+    .. image:: ../images/setup/jdk/2.png
+
+#. To download the JDK you must accept Oracle's Binary Code License Agreement for Java SE. If you decide not to accept the license agreement, you cannot download the JDK and will not be able to develop Java.
+
+    .. image:: ../images/setup/jdk/3.png
+
+#. Select the download for your specific operating system. You should only download **one** file. If you do not know what version of Windows you are running, jump to `Setup - Downloading the JDK <../troubleshooting.html#determining-if-your-version-of-windows-is-32-or-64-bit>`_.
+
+    .. image:: ../images/setup/jdk/4.png
+
+#. After clicking the download button, a popup will appear asking where you would like to download the installer to on your computer.
+
+#. Select the desktop and click Save.
+
+    .. image:: ../images/setup/jdk/6.png
+
+#. Once downloaded, double click the installer, which looks like this.
+
+    .. image:: ../images/setup/jdk/7.png
+
+#. more here soon!
 ------------------
