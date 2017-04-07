@@ -5,4 +5,5 @@ Usage
 
 
 #. To Run the project, simply click on the green play button at the upper right hand corner of the screen.
+    
     .. image:: ../images/setup/intellij/Running.png
