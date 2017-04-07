@@ -4,7 +4,7 @@ Creating a Java Project
 
 #. Double click on the IntelliJ icon to launch it.
 
-
+     .. image:: ../images/setup/intellij/DesktopShortcut.png
 
 #. Click 'Create New Project'
 
