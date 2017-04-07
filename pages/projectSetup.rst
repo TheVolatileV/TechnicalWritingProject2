@@ -10,23 +10,7 @@ Creating a Java Project
 
     .. image:: ../images/setup/intellij/Untitled.png
 
-#. Click ‘Download JDK’
-
-    .. image:: ../images/setup/intellij/JDK1.png
-
-#. Read through the Oracle Binary Code License Agreement for Java SE and make a decision. Should you decide not to accept the terms of use, unfortunately you will not be able to develop with Java.
-
-    .. image:: ../images/setup/intellij/JDK2.png
-
-#. Click on the download for your corresponding operating system to download the JDK intaller.
-
-    .. image:: ../images/setup/intellij/JDK3.png
-
-#. Run the JDK installer and follow its installation instructions.
-
-    .. image:: ../images/setup/intellij/Jdk4.png
-
-#. Return to the intelliJ window and click the New box.
+#. In the New Project window, click the `new` button so specify the location of the JDK which you downloaded earlier. If you haven't already downloaded the JDK, jump to `Link Setup - Downloading the JDK <../setup.rst#download-and-install-intellij>` If already specified, jump to step 5. 
 
     .. image:: ../images/setup/intellij/jdk5.png
 
