@@ -31,7 +31,7 @@ Creating a Java Project
     
 ----------------------------
     
-Running and [BLANKING] a Java Project
+Running a Java Project
 ^^^^^^^^^^^^^^^^^^
 
 #. Once you have created your project your IntelliJ window should look like this.
@@ -40,7 +40,7 @@ Running and [BLANKING] a Java Project
 
 #. Copy the following example code from https://pastebin.com/raw/nN0nYzLP and paste it into IntelliJ for the following steps.
 
-     .. image:: ../images/setup/intellij/finished.png
+     .. image:: ../images/setup/intellij/PastedCode.png
 
 #. To Run the project, simply click on the green play button at the upper right hand corner of the screen.
     
