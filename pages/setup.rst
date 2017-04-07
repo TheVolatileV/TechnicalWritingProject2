@@ -70,7 +70,7 @@ To actually develop Java, we require the Java Development Kit or JDK for short. 
 
     .. image:: ../images/setup/jdk/2.png
 
-#. To download the JDK you must accept Oracle's Binary Code License Agreement for Java SE. If you decide not to accept the license agreement, you cannot download the JDK and will not be able to develop Java.
+#. To download the JDK you must accept `Oracle's Binary Code License Agreement for Java SE <http://www.oracle.com/technetwork/java/javase/terms/license/index.html>`_. If you decide not to accept the license agreement, you cannot download the JDK and will not be able to develop Java.
 
     .. image:: ../images/setup/jdk/3.png
 
