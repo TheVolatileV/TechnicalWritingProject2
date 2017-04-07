@@ -49,4 +49,6 @@ Running a Java Project
 #. If your program was run successfully it should look like this.
 
      .. image:: ../images/setup/intellij/ProgramOutput.png
+
+Congratulations, you have successfully completed your first java project in IntelliJ. You have taken the first few steps in the road to becoming an IntelliJ master.
 --------
