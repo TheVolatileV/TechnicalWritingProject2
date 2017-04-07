@@ -34,8 +34,6 @@ Creating a Java Project
 Running and [BLANKING] a Java Project
 ^^^^^^^^^^^^^^^^^^
 
-Usage
-===============
 
 #. Copy the following example code from https://pastebin.com/raw/nN0nYzLP and paste it into IntelliJ for the following steps.
 
