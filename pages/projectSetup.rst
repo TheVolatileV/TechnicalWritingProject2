@@ -14,7 +14,7 @@ Creating a Java Project
 
     .. image:: ../images/setup/intellij/JDK1.png
 
-#. Read through the Oracle Binary Code License Agreement for Java SE and make a decision.
+#. Read through the Oracle Binary Code License Agreement for Java SE and make a decision. Should you decide not to accept the terms of use, unfortunately you will not be able to develop with Java.
 
     .. image:: ../images/setup/intellij/JDK2.png
 
@@ -22,7 +22,7 @@ Creating a Java Project
 
     .. image:: ../images/setup/intellij/JDK3.png
 
-#. Run the JDK installer and follow its installation insturctions.
+#. Run the JDK installer and follow its installation instructions.
 
     .. image:: ../images/setup/intellij/Jdk4.png
 
